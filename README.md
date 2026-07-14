@@ -75,7 +75,9 @@ support HR decision-making.
 
 ## Tableau Public Dashboard
 
-([paste your Tableau Public link here](https://public.tableau.com/app/profile/asmita.katake))
+🔗 **Tableau Public Profile:**  
+
+https://public.tableau.com/app/profile/asmita.katake
 
 
 ---
