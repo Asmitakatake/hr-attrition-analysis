@@ -38,7 +38,7 @@ statistical analysis and Tableau dashboard.
 6. Income difference statistically significant (p < 0.05)
 
 ## Author
-Asmita Katake
+Asmita Katake | Computer Engineering Graduate | Aspiring Data Analyst
 
 LinkedIn:https://linkedin.com/in/asmita-katake-441354231
 
