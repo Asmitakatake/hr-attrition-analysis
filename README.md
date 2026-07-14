@@ -79,6 +79,11 @@ support HR decision-making.
 
 https://public.tableau.com/app/profile/asmita.katake
 
+---
+
+## Dashboard Preview
+
+![Dashboard](dashboard_screenshot.png)
 
 ---
 
@@ -94,6 +99,28 @@ https://public.tableau.com/app/profile/asmita.katake
 
 ---
 
+## Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Statistical Hypothesis Testing
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Insight Generation
+- HR Analytics
+
+---
+
+## Business Impact
+
+This project helps HR teams:
+
+- Identify departments with highest attrition.
+- Understand overtime impact.
+- Detect salary-based attrition trends.
+- Improve employee retention strategies.
+
+---
 
 ## Author
 **Asmita Katake** | Computer Engineering Graduate | Aspiring Data Analyst
