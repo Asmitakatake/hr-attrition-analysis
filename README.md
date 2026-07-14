@@ -8,11 +8,9 @@
 ---
 
 ## Project Overview
-End-to-end HR analytics project analysing **1,470 IBM 
+End-to-end HR analytics project analyzing **1,470 IBM 
 employee records** to identify key drivers of employee 
-attrition. Covers complete data analyst workflow from 
-Python EDA to statistical analysis to interactive 
-Tableau dashboard.
+attrition. This Project demonstrates the complete data analytics workflow, from Python-based Exploratory Data Analysis (EDA) and statistical hypothesis testing to an interactive Tableau dashboard, solving a real-world HR business problem.
 
 ---
 
@@ -39,7 +37,7 @@ support HR decision-making.
 ### Part 1: Python EDA
 **File:** `hr_attrition_analysis.ipynb`
 - Data cleaning and quality validation
-- 6 professional visualisations
+- 6 professional visualizations
 - Key findings and business insights
 - Tools: Python, Pandas, Matplotlib, Seaborn
 
@@ -91,7 +89,7 @@ https://public.tableau.com/app/profile/asmita.katake
 | Tool | Purpose |
 |------|---------|
 | Python (Pandas, NumPy) | Data Manipulation |
-| Matplotlib, Seaborn | Visualisation |
+| Matplotlib, Seaborn | Data Visualisation |
 | SciPy | Statistical Testing |
 | Tableau Public | Interactive Dashboard |
 | Jupyter Notebook | Development Environment |
@@ -104,6 +102,7 @@ https://public.tableau.com/app/profile/asmita.katake
 - Exploratory Data Analysis (EDA)
 - Statistical Hypothesis Testing
 - Data Cleaning
+- Data Analysis
 - Data Visualization
 - Dashboard Design
 - Business Insight Generation
