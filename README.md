@@ -81,7 +81,7 @@ https://public.tableau.com/app/profile/asmita.katake
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshort.png)
 
 ---
 
