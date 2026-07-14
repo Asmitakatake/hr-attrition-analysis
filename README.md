@@ -98,8 +98,10 @@ https://public.tableau.com/app/profile/asmita.katake
 ## Author
 **Asmita Katake** | Computer Engineering Graduate | Aspiring Data Analyst
 
-LinkedIn:https://linkedin.com/in/asmita-katake-441354231
+---
 
-Tableau:https://public.tableau.com/app/profile/asmita.katake
+## Connect with Me
 
-GitHub:https://github.com/Asmitakatake
+- LinkedIn: https://linkedin.com/in/asmita-katake-441354231
+- Tableau Public: https://public.tableau.com/app/profile/asmita.katake
+- GitHub: https://github.com/Asmitakatake
