@@ -29,13 +29,6 @@ statistical analysis and Tableau dashboard.
 - 2 interactive filters (Department, Attrition)
 - Tableau Public:[[(https://public.tableau.com/app/profile/asmita.katake)]]
 
----
-
-## Dashboard Preview
-
-[Dashboard](hr attrition dashboard screenshort.png)
-
----
 
 ## Key Findings
 1. Attrition Rate: 16.12%
