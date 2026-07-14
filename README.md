@@ -32,7 +32,8 @@ statistical analysis and Tableau dashboard.
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png.png)
+
+[Dashboard](hr attrition dashboard screenshort.png)
 
 ---
 
