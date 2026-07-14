@@ -73,12 +73,14 @@ support HR decision-making.
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png.png)
 
 ---
 
 ## Tableau Public Dashboard
-[[Click here to view live interactive dashboard](https://public.tableau.com/app/profile/asmita.katake)]
+[](https://public.tableau.com/app/profile/asmita.katake
+)]
+
 
 ---
 
