@@ -27,7 +27,7 @@ statistical analysis and Tableau dashboard.
 - 3 KPI cards (Total Employees, Left, Attrition Rate)
 - 4 bar charts (Department, Overtime, Salary, Job Role)
 - 2 interactive filters (Department, Attrition)
-- Tableau Public: [[[paste your link here](https://public.tableau.com/app/profile/asmita.katake)]](https://public.tableau.com/app/profile/asmita.katake)
+- Tableau Public:[[(https://public.tableau.com/app/profile/asmita.katake)]]
 
 ## Key Findings
 1. Attrition Rate: 16.12%
