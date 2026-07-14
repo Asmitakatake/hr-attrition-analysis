@@ -24,11 +24,17 @@ statistical analysis and Tableau dashboard.
 - Correlation heatmap (10 variables)
 
 ## Dashboard
-**File:** ‘hr attrition dashboard screenshort.png
 - 3 KPI cards (Total Employees, Left, Attrition Rate)
 - 4 bar charts (Department, Overtime, Salary, Job Role)
 - 2 interactive filters (Department, Attrition)
 - Tableau Public:[[(https://public.tableau.com/app/profile/asmita.katake)]]
+
+---
+
+## Dashboard Preview
+![Dashboard](dashboard_screenshot.png.png)
+
+---
 
 ## Key Findings
 1. Attrition Rate: 16.12%
