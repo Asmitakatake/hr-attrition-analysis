@@ -105,6 +105,7 @@ https://public.tableau.com/app/profile/asmita.katake
 - Data Analysis
 - Data Visualization
 - Dashboard Design
+- Tableau
 - Business Insight Generation
 - HR Analytics
 
